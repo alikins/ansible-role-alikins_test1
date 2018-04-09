@@ -1,0 +1,5 @@
+---
+# tasks file for alikins_test1
+- name: just a test task
+  debug:
+    msg: "just a test task msg"
